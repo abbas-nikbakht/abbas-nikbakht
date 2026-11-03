@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-# abbas-nikbakht
-Hi abbas
-<a href="https://YOUR-USERNAME.github.io/My-Profile/">
-  <img src="assets/projects-preview.gif" width="100%">
-</a>
-=======
-Hi 
+# Abbas Nikbakht
 
->>>>>>> 35e74d44a2d932fee0430405269f651d30f810df
+## My Projects
 
+[🚀 Explore My Projects](https://abbas-nikbakht.github.io/abbas-nikbakht/)
