@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.slide {
+    display: none;
+    padding: 50px;
+    text-align: center;
+    background: #eeeeee;
+}
+.active {
+    display: block;
+}
+</style>
+</head>
+
+<body>
+
+<div class="slide active">
+    <h2>Project 1</h2>
+    <p>Python Project</p>
+</div>
+
+<div class="slide">
+    <h2>Project 2</h2>
+    <p>Reinforcement Learning</p>
+</div>
+
+<div class="slide">
+    <h2>Project 3</h2>
+    <p>Deep Learning</p>
+</div>
+
+<button onclick="changeSlide(-1)">Previous</button>
+<button onclick="changeSlide(1)">Next</button>
+
+<script>
+let current = 0;
+
+function changeSlide(step) {
+
+    let slides = document.querySelectorAll(".slide");
+
+    slides[current].classList.remove("active");
+
+    current += step;
+
+    if (current >= slides.length)
+        current = 0;
+
+    if (current < 0)
+        current = slides.length - 1;
+
+    slides[current].classList.add("active");
+}
+</script>
+
+</body>
+</html>
