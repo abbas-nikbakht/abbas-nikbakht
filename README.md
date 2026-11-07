@@ -1,4 +1,4 @@
-# Abbas Nikbakht
+# projects:
 
 <p align="center">
   <img src="assets/projects-portfolio.gif" width="800">
