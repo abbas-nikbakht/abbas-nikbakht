@@ -1,3 +1,6 @@
+# Hi, I'm Abbas 👋
+A summary of completed projects can be found at the link below; please open the link to view them.
+
 # projects:
 
 <p align="center">
