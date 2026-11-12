@@ -15,9 +15,8 @@ A summary of completed projects can be found at the link below; please open the 
 • In the [Gridworld_3x4_gymnasium](https://github.com/abbas-nikbakht/Reinforcement-Learning/tree/main/Environments/Gridworld_3x4_gymnasium), This project provides an interactive 3×4 "GridWorld" environment designed to help understand the fundamental concepts of reinforcement learning environments, utilizing the Gymnasium library.
 
 
-## My Projects
-
-[Explore My Projects](https://abbas-nikbakht.github.io/abbas-nikbakht/)
+## Visually appealing and concise project overviews 😍
+[👉 Take a Look at My Projects 👀](https://abbas-nikbakht.github.io/abbas-nikbakht/)
 
 <p align="center">
   <img src="assets/projects-portfolio.gif" width="800">
