@@ -18,7 +18,8 @@ A summary of completed projects can be found at the link below; please open the 
 ## Visually appealing and concise project overviews 😍
 [👉 Take a Look at My Projects 👀](https://abbas-nikbakht.github.io/abbas-nikbakht/)
 
+```
 <p align="center">
   <img src="assets/projects-portfolio.gif" width="800">
 </p>
-
+```
