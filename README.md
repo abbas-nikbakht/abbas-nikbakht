@@ -6,7 +6,7 @@ A summary of completed projects can be found at the link below; please open the 
 [👉👉👉👀 Take a Look at My Projects 👀👈👈👈](https://abbas-nikbakht.github.io/abbas-nikbakht/)
 
 
-## Probability Statistics
+### Probability Statistics
 
 • In the [Rolling the Dice](https://github.com/abbas-nikbakht/Probability_Statistics/tree/main/Rolling%20the%20dice), we learn the concept of Expected Value through a simple dice-rolling example.
 
