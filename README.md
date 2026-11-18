@@ -3,7 +3,7 @@ A summary of completed projects can be found at the link below; please open the 
 <br>
 
 ## The overview of projects in an attractive, visual format is as follows: 😍
-                 [👉👉👉👀 Take a Look at My Projects 👀👈👈👈](https://abbas-nikbakht.github.io/abbas-nikbakht/)     
+[👉👉👉👀 Take a Look at My Projects 👀👈👈👈](https://abbas-nikbakht.github.io/abbas-nikbakht/)     
 
 <br>
 <br>
