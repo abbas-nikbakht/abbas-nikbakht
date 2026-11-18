@@ -1,10 +1,14 @@
 # Hi, I'm Abbas 👋
-A summary of completed projects can be found at the link below; please open the link to view them.
+A summary of completed projects can be found at the link below; please open the link to view them.      
+<br>
 
+## The overview of projects in an attractive, visual format is as follows: 😍
+[👉👉👉👀 Take a Look at My Projects 👀👈👈👈](https://abbas-nikbakht.github.io/abbas-nikbakht/)     
 
-## Visually appealing and concise project overviews 😍
-[👉👉👉👀 Take a Look at My Projects 👀👈👈👈](https://abbas-nikbakht.github.io/abbas-nikbakht/)
+<br>
+<br>
 
+## The overview of projects in a list format is as follows:
 
 ### Probability Statistics
 
@@ -14,7 +18,7 @@ A summary of completed projects can be found at the link below; please open the 
 
 • In the [Estimating Pi using the Monte Carlo](https://github.com/abbas-nikbakht/Probability_Statistics/tree/main/Estimating%20Pi%20using%20the%20Monte%20Carlo), This project demonstrates how the value of π (Pi) can be estimated using the Monte Carlo Method and randomly generated points.
 
-## Environment
+### Environment
 • In the [GridWorld_3x4_from-Scratch](https://github.com/abbas-nikbakht/Reinforcement-Learning/tree/main/Environments/GridWorld_3x4_from-Scratch), In this project, a 3×4 GridWorld environment is implemented from scratch without using Gymnasium.
 
 • In the [Gridworld_3x4_gymnasium](https://github.com/abbas-nikbakht/Reinforcement-Learning/tree/main/Environments/Gridworld_3x4_gymnasium), This project provides an interactive 3×4 "GridWorld" environment designed to help understand the fundamental concepts of reinforcement learning environments, utilizing the Gymnasium library.
